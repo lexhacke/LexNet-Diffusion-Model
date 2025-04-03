@@ -1,4 +1,5 @@
 🐱 LexNet Cat Diffusion — Residual Encoder-Decoder Diffusion Model
+
 A from-scratch implementation of a diffusion-based image generator using a residual U-Net-style architecture. Trained to generate 64×64 cat images conditioned on sinusoidal timestep embeddings.
 
 
